@@ -4,3 +4,9 @@ add
 create avatar for people ok 
 
 Login and logout
+<<<<<<< HEAD
+=======
+1
+2
+3
+>>>>>>> 1d3ee4b (123)
