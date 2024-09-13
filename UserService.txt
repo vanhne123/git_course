@@ -1,2 +1,4 @@
 Get data from database 
 add
+
+create avatar for people ok 
