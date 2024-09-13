@@ -6,5 +6,6 @@ create avatar for people ok
 Login and logout
 1
 2
-3 change in Database
-change 4
+
+3 change in databs 
+
